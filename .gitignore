@@ -1,0 +1,4 @@
+java -jar
+bfg.jar
+--delete-files
+.DS_Store
